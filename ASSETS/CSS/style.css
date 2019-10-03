@@ -1,0 +1,14 @@
+.card-header {
+    background-color: black;
+    color: white;
+}
+
+.jumbotron {
+    background-color: black;
+    color: white;
+}
+
+#add-train-btn {
+    color: black;
+    border: solid black;
+}
